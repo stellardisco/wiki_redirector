@@ -1,0 +1,23 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2023-01-20T22:24:18.293Z",
+    "redirects": [
+        {
+            "description": "Redirect to old wiki layout",
+            "exampleUrl": "https://en.wikipedia.org/wiki/1920%E2%80%9321_Burnley_F.C._season#Player_details",
+            "exampleResult": "https://en.wikipedia.org/wiki/1920%E2%80%9321_Burnley_F.C._season?&useskin=vector#Player_details",
+            "error": null,
+            "includePattern": "^https://(\\w+)([.]m)?.wikipedia.org([^#?]+)(\\?)?([^#]*?)(&useskin=vector)?(#.+)?$",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://$1.wikipedia.org$3?$5&useskin=vector$7",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        }
+    ]
+}
