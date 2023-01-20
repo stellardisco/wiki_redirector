@@ -15,7 +15,7 @@ I did not come up with anything involved with this project simply packaged a tut
 
 1. Install the extension:<br>[Redirector-Firefox](https://addons.mozilla.org/en-US/firefox/addon/redirector/)<br>[Redirector-Chrome](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) (untested)
 
-2. Download the redirect_to_old_wiki_layout.json file from this repo.
+2. Download the [redirect_to_old_wiki_layout.json](https://raw.githubusercontent.com/stellardisco/wiki_redirector/main/redirect_to_old_wiki_layout.json) file from this repo by right clicking the link and choose "save link as..." or equivalent.
 
 3. Left click the Redirector extension in your browser and choose **Edit Redirects**.<br>_You will see an example scrip here you may wish to disable it_
 
