@@ -1,4 +1,4 @@
-# wiki_redirector
+# Wikipedia Redirector For Getting The Old UI Back
 
 ## About
 
